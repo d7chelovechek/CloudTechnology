@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cloudphoto": {
+      "commandName": "Project",
+      "commandLineArgs": "delete -a path -p ред.jpg"
+    }
+  }
+}
