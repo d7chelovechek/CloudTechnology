@@ -6,7 +6,7 @@ Installing:
 * Download .NET 6 for win using **"winget install Microsoft.DotNet.SDK.6"** or linux using **"sudo apt-get install -y dotnet6"** by CLI;
 * (only linux) Set chmod 777 for executable file **"cloudphoto"**;
 * Use (path)/./cloudphoto init in CLI;
-* After executing the command, the application will automatically update the PATH environment variable so that you can use the "cloudphoto" application without specifying a path;
+* After executing command, application will automatically update PATH environment variable so that you can use "cloudphoto" application without specifying a path;
 * Enjoy.
 
 Commands:
