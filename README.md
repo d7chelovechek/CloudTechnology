@@ -1,4 +1,7 @@
 # Cloudphoto
+
+Khaydarov Ayrat, 11-910, vvot42
+
 CLI application for bucket management in Yandex.Cloud. Allows you to upload, download, delete and display photos in albums. Generates site for viewing albums and photos.
 
 Installing:
